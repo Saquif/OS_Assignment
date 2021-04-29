@@ -28,7 +28,7 @@ int main()
         scanf("%d",&arrival_time[i]);
     }
 
-
+  //this updated by Saquif
 
 
 
